@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:2:1-48:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\f5bdf8930f5b0dade80802408310dda6\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\4f3f57a83cb26d1dd8ca69501722966b\lifecycle-extensions-2.1.0\AndroidManifest.xml:17:1-25:12
@@ -41,25 +41,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gauta\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\35d6382087ac1999db47004e3bf24934\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\8893b90c6f2a61edd1acfa898cb4cde1\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\c1763829f79bc3811543d2bb9a22b866\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:2:1-48:12
 	package
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:3:5-40
-		INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:2:1-48:12
-		INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:2:1-48:12
-		INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:5:5-46:19
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:5:5-46:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\4f3f57a83cb26d1dd8ca69501722966b\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
@@ -75,79 +75,79 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gauta\.g
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.iitrtimetable.Monday
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:12:9-20:20
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:12:9-20:20
 	android:parentActivityName
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:15:13-52
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:15:13-52
 	android:label
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:14:13-35
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:14:13-35
 	android:name
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:13:13-35
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:13:13-35
 meta-data#android.support.TIMETABLE
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:16:13-18:52
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:16:13-18:52
 	android:value
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:18:17-49
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:18:17-49
 	android:name
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:17:17-57
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:17:17-57
 activity#com.example.iitrtimetable.Timetable
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:21:9-28:20
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:21:9-28:20
 	android:parentActivityName
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:24:13-57
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:24:13-57
 	android:label
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:23:13-38
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:23:13-38
 	android:name
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:22:13-38
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:22:13-38
 meta-data#android.support.SECOND_ACTIVITY
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:25:13-27:55
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:25:13-27:55
 	android:value
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:27:17-52
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:27:17-52
 	android:name
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:26:17-63
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:26:17-63
 activity#com.example.iitrtimetable.SecondActivity
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:29:9-36:20
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:29:9-36:20
 	android:parentActivityName
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:32:13-65
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:32:13-65
 	android:label
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:31:13-51
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:31:13-51
 	android:name
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:30:13-43
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:30:13-43
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:33:13-35:59
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:33:13-35:59
 	android:value
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:35:17-56
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:35:17-56
 	android:name
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:34:17-63
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:34:17-63
 activity#com.example.iitrtimetable.ui.login.LoginActivity
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:37:9-45:20
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:37:9-45:20
 	android:label
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:39:13-45
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:39:13-45
 	android:name
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:38:13-51
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:38:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:40:13-44:29
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:40:13-44:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:41:17-69
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:41:25-66
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:41:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:43:17-77
+ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml:43:27-74
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml:43:27-74
 uses-sdk
-INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
+INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\f5bdf8930f5b0dade80802408310dda6\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -222,16 +222,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\gauta\.gradle\caches\transform
 MERGED from [androidx.print:print:1.0.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\8893b90c6f2a61edd1acfa898cb4cde1\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\c1763829f79bc3811543d2bb9a22b866\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\c1763829f79bc3811543d2bb9a22b866\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
+INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gauta\AndroidStudioProjects\iitrtimetable\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Gautam\iitrtimetable-master\app\src\main\AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\gauta\.gradle\caches\transforms-2\files-2.1\e50b3f7edd4f9041d2755ee263c7c860\lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
 	android:authorities
