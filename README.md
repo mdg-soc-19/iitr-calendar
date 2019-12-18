@@ -1,2 +1,1 @@
-# iitr-calendar
-This app will work as a calendar customizable according to the requirement of each student.
+This is a project under MDG SoC. There a lot of clashes between different workshops by different groups and many of times all the students don't know about all the workshops being held in the college. Also there are different deadlines for different competition. The solution is app which will work as a calendar customizable according to the requirement of each student. No student will miss any competition , lecture, workshop or any other event just because he was not aware of it also a MAJOR impact would be that it will help the student manage his/her time very efficiently.
