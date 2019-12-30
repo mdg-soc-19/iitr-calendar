@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
-import { Text, TextInput, View, Button, TouchableOpacity, StyleSheet} from 'react-native';
+import { Text, TextInput, View, Button, TouchableOpacity, StyleSheet, Image} from 'react-native';
 var firebase = require("firebase");
 import { Scene, Router, ActionConst, Actions} from 'react-native-router-flux';
 import Timetable from '../Main/Timetable';
+var isLoggedIn = false;
+
 export default class Login extends Component {
   constructor(props) {
     super(props);
@@ -12,32 +14,30 @@ export default class Login extends Component {
     };
   }
 
-
   loginFun(enrollNo,password){
-//let isLoggedIn = false;
     firebase.database().ref('UsersList/').once('value', function (snapshot) {
         console.log(snapshot.val())
         let allData = Object.values(snapshot.val());
+        console.log(allData);
         for(let i = 0; i < allData.length ; i++ ){
           if(allData[i].enrollNo == enrollNo && allData[i].password == password){
-          //    isLoggedIn = true;
+             isLoggedIn = true;
               console.log(allData);
               Actions.main({userDetail:allData[i]})
               return ;
-          
-          }
+            }
+        }
+        if(!isLoggedIn){
+             alert("Please provide correct credentials")
         }
     });
-//if(!isLoggedIn){
-//      alert("Please provide correct credentials")
-//    }
-    }
-
+}
 
   render() {
     return (
       <View style={{height:'100%',width:'100%',justifyContent:'center',alignItems:'center',backgroundColor:'#FFF'}}>
       <Text>Welcome to IITR TimeTable</Text>
+      <Image source = {require('C:/Users/gauta/iitrtimetable/src/iitr/images/login.jpg')} style={{width:200, height:200}} />
           <TextInput
           style={{height: 40, width:200}}
           placeholder="Enrolment Number"
@@ -58,7 +58,7 @@ export default class Login extends Component {
             </View>
           </TouchableOpacity>
 
-          <TouchableOpacity>
+          <TouchableOpacity onPress={() => {Actions.register()}}>
               <View style={styles.button1}>
                 <Text style={styles.buttonText1}>Not yet Registered? Register here.</Text>
               </View>

@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "firebase": "^4.8.1",
+    "gradle": "^1.0.9",
     "react": "16.9.0",
     "react-native": "0.61.5",
+    "react-native-modal-dropdown": "^0.7.0",
     "react-native-router-flux": "^4.0.6",
     "react-native-scrollable-tab-view": "^1.0.0",
     "react-native-viewpager": "^0.2.13"
