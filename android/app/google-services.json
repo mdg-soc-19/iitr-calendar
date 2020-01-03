@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "814071181519",
+    "firebase_url": "https://iitrtimetable-486e3.firebaseio.com",
+    "project_id": "iitrtimetable-486e3",
+    "storage_bucket": "iitrtimetable-486e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814071181519:android:8588c9793927e3fd0e47ba",
+        "android_client_info": {
+          "package_name": "com.iitrtimetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814071181519-mopjk0dic8essvdihbg8oq53o7eeb5j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBptE6EjjOgF1qAJT9DVE2vTwKW70rBLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814071181519-mopjk0dic8essvdihbg8oq53o7eeb5j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
