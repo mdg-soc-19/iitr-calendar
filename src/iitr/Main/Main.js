@@ -66,6 +66,9 @@ daysRender(){
       <View style={{height:'100%',width:'100%',backgroundColor:'#FFF'}}>
             <View style={{width:'100%',height:60,backgroundColor:'#2196F3',justifyContent:'space-between',flexDirection:'row',alignItems:'center'}}>
                   <Text style={{fontSize:30,color:'#fff',marginLeft:10,fontWeight:'bold'}}>IITR</Text>
+                  <TouchableOpacity onPress={() => {Actions.add({userDetail:this.props.userDetail})}}>
+                  <Text style={{fontSize:50,color:'#fff',fontWeight:'bold'}}>+</Text>
+                  </TouchableOpacity>
                   <TouchableOpacity onPress={() => {Actions.profile({userDetail:this.props.userDetail})}}>
                   <Text style={{fontSize:30,color:'#fff',fontWeight:'bold'}}>Profile</Text>
                   </TouchableOpacity>

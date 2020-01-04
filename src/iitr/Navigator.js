@@ -14,6 +14,7 @@ import Register from './Register/Register';
 import Main from './Main/Main';
 import Timetable from './Main/Timetable';
 import Profile from './Main/Profile';
+import Add from './Main/Add';
 
 export default class Navigator extends Component {
   constructor(props) {
@@ -40,6 +41,7 @@ export default class Navigator extends Component {
                         <Scene key="main" component={Main}  hideNavBar={true}   />
                         <Scene key="timetable" component={Timetable}  hideNavBar={true} />
                         <Scene key="profile" component={Profile}  hideNavBar={true}   />
+                        <Scene key="add" component={Add}  hideNavBar={true}   />
 
                     </Scene>
                </Router>

@@ -68,8 +68,8 @@ export default class Register extends Component {
   render() {
     return (
       <View style={{height:'100%',width:'100%',justifyContent:'center',alignItems:'center',backgroundColor:'#FFF'}}>
-      <Text>Register</Text>
-      <Image source = {require('C:/Users/gauta/iitrtimetable/src/iitr/images/mylogo.png')} style={{width:100, height:100}} />
+      <Text style = {styles.register}>Register</Text>
+      <Image source = {require('C:/Users/gauta/iitrtimetable/src/iitr/images/mylogo.png')} style={{width:150, height:150}} />
           <TextInput
           placeholderTextColor="grey"
           style={{height: 40, width:200}}
@@ -153,23 +153,17 @@ export default class Register extends Component {
 const styles = StyleSheet.create({
   button: {
     marginBottom: 15,
-    width: 260,
+    width: 300,
     alignItems: 'center',
     backgroundColor: '#2196F3'
   },
   buttonText: {
     textAlign: 'center',
     padding: 10,
-    color: 'white'
+    color: 'white',
+    fontSize:15
   },
-  button1: {
-    marginBottom: 30,
-    width: 260,
-    alignItems: 'center',
-    backgroundColor: '#FFF'
-  },
-  buttonText1: {
-    textAlign: 'center',
-    padding: 5,
+  register:{
+    fontSize:30,
   }
 });
